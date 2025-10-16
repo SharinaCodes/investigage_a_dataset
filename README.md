@@ -44,12 +44,12 @@ Both **univariate** and **bivariate** analyses were performed:
 - **Scholarship recipients** are slightly less likely to attend their appointments.  
 - Certain **neighborhoods** show notably higher or lower attendance rates, suggesting potential location-based influences.
 
-## ⚖️ Limitations
+## Limitations
 - The dataset does not include **socioeconomic** or **transportation** data that might affect attendance.
 - The analysis is **descriptive only**; no causal relationships are inferred.
 - Additional research could include **socioeconomic** or **time-of-day patterns** approaches to narrow down the cause of poor attendance.
 
-## 🧠 Technologies Used
+## Technologies Used
 - **Python 3.10+**
 - **Pandas**
 - **Matplotlib**
@@ -57,7 +57,7 @@ Both **univariate** and **bivariate** analyses were performed:
 
 ---
 
-## 🧩 Project Structure
+## Project Structure
 Investigate_a_Dataset/
 ```
 │
