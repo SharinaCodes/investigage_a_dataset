@@ -59,9 +59,11 @@ Both **univariate** and **bivariate** analyses were performed:
 
 ## 🧩 Project Structure
 Investigate_a_Dataset/
+```
 │
 ├── Investigate_a_Dataset.ipynb # Jupyter notebook with full analysis
 ├── Investigate_a_Dataset.html # HTML export for submission
 ├── README.md # Project documentation
 └── noshowappointments.csv # Dataset file
+```
 
